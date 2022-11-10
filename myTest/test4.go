@@ -6,6 +6,9 @@ import (
 
 func Test4() {
 	// array & slices 
+	//diff between them
+	//- array need to define size but slice can grow
+	//- append only work for slice
 	//array
 
 	var arr1 [5]int
