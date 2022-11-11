@@ -9,5 +9,5 @@ import (
 //go always run in main function
 func main() {
 	fmt.Println("hello world")
-	test.Test5()
+	test.Test6()
 }
