@@ -8,3 +8,9 @@ Here is a covered topic.
 4. array & slice
 5. pointer
 6. file IO
+7. map
+8. generics and struct
+9. getter and setter
+10. interface
+11. go routine and chanel
+12. mutex and lock
